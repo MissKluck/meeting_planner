@@ -30,10 +30,7 @@ public class MeetingController
         string place = Console.ReadLine();
         meeting.Place = place;
 
-        // people at meeting
-        Console.WriteLine("Who is going to the meeting?");
-        string peopleAtMeeting = Console.ReadLine();
-        meeting.PeopleAtMeeting = peopleAtMeeting;
+
     }
 
     public void MadeMeeting()
