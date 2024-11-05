@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        MeetingController meetingController = new MeetingController();
+
+        meetingController.planningMeeting();
+
+        meetingController.MadeMeeting();
     }
 }

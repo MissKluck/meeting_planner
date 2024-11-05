@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/meeting_planner/bin/Debug/net8.0/meeting_planner
+/Users/Sigrid/Documents/C#/meeting_planner/bin/Debug/net8.0/meeting_planner.deps.json
+/Users/Sigrid/Documents/C#/meeting_planner/bin/Debug/net8.0/meeting_planner.runtimeconfig.json
+/Users/Sigrid/Documents/C#/meeting_planner/bin/Debug/net8.0/meeting_planner.dll
+/Users/Sigrid/Documents/C#/meeting_planner/bin/Debug/net8.0/meeting_planner.pdb
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.sourcelink.json
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.dll
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/refint/meeting_planner.dll
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.pdb
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/meeting_planner.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/meeting_planner/obj/Debug/net8.0/ref/meeting_planner.dll

@@ -1,0 +1,4 @@
+The date of the meeting is 0
+The meeting starts at 12
+The meeting takes place at Rohan
+The people attending are Faramir, the brother of Eowyn
